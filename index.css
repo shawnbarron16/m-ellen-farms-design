@@ -1,0 +1,20 @@
+h1 {
+    font-family: 'Italianno', cursive;
+}
+
+h2 {
+    font-family: 'Italianno', cursive;
+}
+
+body {
+    background-image: url("assets/IMG_2780.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.logos {
+    max-height: 7rem;
+    max-width: 25rem;
+    margin-top: 2.4rem;
+    margin-bottom: 3.89rem;
+}
